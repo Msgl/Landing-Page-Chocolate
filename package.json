@@ -1,0 +1,24 @@
+{
+  "name": "landing-page-chocolate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Msgl/Landing-Page-Chocolate.git"
+  },
+  "author": "Maria Glynou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Msgl/Landing-Page-Chocolate/issues"
+  },
+  "homepage": "https://github.com/Msgl/Landing-Page-Chocolate#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
